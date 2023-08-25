@@ -1,3 +1,14 @@
 body {
     background-color: rgb(0, 255, 170);
   }
+a:link {
+  color: red;
+}
+
+a:visited {
+  color: green;
+}
+
+a:hover {
+  color: hotpink;
+}
