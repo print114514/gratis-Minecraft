@@ -2,7 +2,7 @@ body {
     background-color: rgb(0, 255, 170);
   }
 a:link {
-  color: blue;
+  color: green;
 }
 
 a:visited {
@@ -10,5 +10,5 @@ a:visited {
 }
 
 a:hover {
-  color: hotpink;
+  color: blue;
 }
